@@ -1,0 +1,22 @@
+[
+    {
+        "pk": 1,
+        "model": "flatpages.page",
+        "fields": {
+            "status": 1,
+            "rght": 2,
+            "registration_required": false,
+            "parent": null,
+            "title": "About us",
+            "url": "/about-us/",
+            "template_name": "",
+            "level": 0,
+            "content": "<p>This will have the about us content</p>\r\n",
+            "ordering": 1,
+            "navigation_placement": "TOP",
+            "tree_id": 1,
+            "lft": 1,
+            "enable_comments": false
+        }
+    }
+]
